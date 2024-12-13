@@ -26,11 +26,6 @@ Both projects are designed to be educational and practical, providing hands-on e
 
 To get started with these projects, clone the repository to your local machine and ensure you have the necessary dependencies installed.
 
-```bash
-git clone https://github.com/your-username/sliding-puzzle-rescue-plan.git
-cd sliding-puzzle-rescue-plan
-```
-
 ## Project Descriptions
 
 ### Sliding Puzzle
